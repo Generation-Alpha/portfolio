@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/portfolio/static/js/main.6f1ee79d.js",
+    "static/js/453.ed3810f9.chunk.js": "/portfolio/static/js/453.ed3810f9.chunk.js",
+    "static/media/Brainware.jpg": "/portfolio/static/media/Brainware.15b31af87c68caeebf91.jpg",
+    "static/media/fresher.jpg": "/portfolio/static/media/fresher.6f1ae6e2425ff560bd19.jpg",
+    "static/media/exploreknowledge.jpg": "/portfolio/static/media/exploreknowledge.dd9913ef02f7c6c95ebd.jpg",
+    "static/media/hackathon.jpg": "/portfolio/static/media/hackathon.51d41be2e69b8cb829fb.jpg",
+    "static/media/Hindustan_Art_Music.jpg": "/portfolio/static/media/Hindustan_Art_Music.e22b218544c0a719ec3d.jpg",
+    "static/media/entreprenership.jpg": "/portfolio/static/media/entreprenership.2100154705a253780d75.jpg",
+    "static/media/Talenthand.jpg": "/portfolio/static/media/Talenthand.5599e16991c51f16e60e.jpg",
+    "static/media/saveEarth.jpg": "/portfolio/static/media/saveEarth.998a814dc4d21f1a7ecd.jpg",
+    "static/media/FitIndia.jpg": "/portfolio/static/media/FitIndia.33b1b8e971783b254372.jpg",
+    "static/media/swach_bharat.jpg": "/portfolio/static/media/swach_bharat.81aad58343d1cd666b35.jpg",
+    "static/media/nptel.jpg": "/portfolio/static/media/nptel.c59fa7f416b371619712.jpg",
+    "static/media/Mathematics.jpg": "/portfolio/static/media/Mathematics.59545b38ff1efe015b44.jpg",
+    "static/media/Blood Donate.jpg": "/portfolio/static/media/Blood Donate.a984397fe85f229ed846.jpg",
+    "static/media/conference1.jpg": "/portfolio/static/media/conference1.3eb2a5ce74be670b72b2.jpg",
+    "static/media/Amity.jpg": "/portfolio/static/media/Amity.0d1535d2f497b0be98fe.jpg",
+    "static/media/udemy.jpg": "/portfolio/static/media/udemy.f9c2076848056074da54.jpg",
+    "static/media/Industrial_Training.jpg": "/portfolio/static/media/Industrial_Training.319877407e0d96b157f3.jpg",
+    "static/media/intercollege.jpg": "/portfolio/static/media/intercollege.865a73cc42de14619ff2.jpg",
+    "static/media/conference4.jpg": "/portfolio/static/media/conference4.fb7475954b998eabeb47.jpg",
+    "static/media/conference2.jpg": "/portfolio/static/media/conference2.bf4226bff08ae611df11.jpg",
+    "static/media/conference3.jpg": "/portfolio/static/media/conference3.5cdd8d14220a3dd23b47.jpg",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.86d1cce6cd91155e7aa9.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.f855e6bc.css.map": "/portfolio/static/css/main.f855e6bc.css.map",
+    "main.6f1ee79d.js.map": "/portfolio/static/js/main.6f1ee79d.js.map",
+    "453.ed3810f9.chunk.js.map": "/portfolio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6f1ee79d.js"
+  ]
+}
